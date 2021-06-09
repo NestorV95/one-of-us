@@ -1,7 +1,7 @@
 import React from 'react'
 import {BrowserRouter as Router, Switch, Route, Redirect} from 'react-router-dom'
-import PongGoal from './PongGoal/PongGoal'
-import Crane from './Crane/Crane'
+import PongGoal from './MiniGames/PongGoal/PongGoal'
+import Crane from './MiniGames/Crane/Crane'
 
 const Routes = (props) => {
     return (
