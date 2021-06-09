@@ -10,6 +10,3 @@ function App() {
 }
 
 export default App;
-
-
-// hi :) Andre is poo poo
