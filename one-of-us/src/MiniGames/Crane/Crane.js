@@ -23,7 +23,7 @@ const Crane = () => {
 
     
     return (
-        <div>
+        <div className="crane-container" style={}>
         
         </div>
     )
